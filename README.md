@@ -1,1 +1,2 @@
 # PuneMeteroStation
+A Java-based console application that simulates the Pune Metro network using a graph data structure. It allows users to enter source and destination stations, computes the shortest path using Dijkstra’s algorithm, and calculates the total fare based on distance slabs. The project includes a menu-driven interface with preloaded metro routes (Purple Line & Aqua Line) and demonstrates the use of custom heap implementation, priority queues, and object-oriented programming in Java.
